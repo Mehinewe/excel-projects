@@ -1,7 +1,7 @@
 # 📊 Customer Acquisition Analysis – Excel Project
 
 ## 📌 Project Overview
-This project analyzes customer acquisition performance to identify which marketing channels, campaign messages, and channel–campaign combinations drove the highest revenue for a client.
+This project analyzes customer acquisition performance to identify which marketing channels, campaign messages, and channel–campaign combinations drove the highest revenue for a new client.
 The goal was to turn raw marketing data into actionable business insights using Excel.
 
 ## 🎯 Business Objective
@@ -13,8 +13,6 @@ Help the client understand:
 ## 🧰 Tools & Skills Used
 ### Microsoft Excel
 * Pivot Tables & Pivot Charts
-* Data Cleaning & Structuring
-* Aggregation & Performance Analysis
 * Data Visualization
 * Business Insight & Recommendations
 
@@ -45,4 +43,4 @@ Help the client understand:
 ## 👤 Author
 
 Mehinewe Kedewouli.
-Data Analyst | Analytics Engineer | Excel • SQL • Data Visualization • ETL
+Data Analyst | Turning Data into Business Insights for Decision-Making
